@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Omar 👋</h1>
+<h1 align="center">Hi, I'm Omar </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=620&lines=UW+Computer+Science+graduate;backend+%7C+distributed+systems+%7C+cloud;building+useful+software+and+learning+as+I+go" alt="Short introduction" />
