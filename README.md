@@ -10,7 +10,7 @@ I'm a Computer Science & Software Engineering graduate from the University of Wa
 
 ## things I've made
 
-### 01 / [Internet X-Ray](https://github.com/OmarHag/internet-x-ray)
+### 01 [Internet X-Ray](https://github.com/OmarHag/internet-x-ray)
 
 **See what your Mac is actually talking to.** A local-first desktop app that connects network sockets to the processes behind them, then sorts the noise into Internet, LAN, local, and listening traffic.
 
@@ -18,7 +18,7 @@ I'm a Computer Science & Software Engineering graduate from the University of Wa
 
 ---
 
-### 02 / [SuperDrop](https://github.com/OmarHag/SuperDrop)
+### 02 [SuperDrop](https://github.com/OmarHag/SuperDrop)
 
 **Nearby device discovery without an account or a cloud.** The Rust side advertises and finds computers over mDNS, validates their metadata, and gives the interface a small typed command boundary. File transfer is still the next step.
 
@@ -26,7 +26,7 @@ I'm a Computer Science & Software Engineering graduate from the University of Wa
 
 ---
 
-### 03 / [Faultline](https://github.com/OmarHag/Nextprod)
+### 03 [Faultline](https://github.com/OmarHag/Nextprod)
 
 **A distributed system you are supposed to break.** Add a traffic spike or take a worker offline and watch the queue, retries, routing, latency, and recovery change together.
 
@@ -34,7 +34,7 @@ I'm a Computer Science & Software Engineering graduate from the University of Wa
 
 ---
 
-### 04 / [ExplainMyCode](https://github.com/OmarHag/explainmycode)
+### 04 [ExplainMyCode](https://github.com/OmarHag/explainmycode)
 
 **Code explanations that meet the reader where they are.** My UW capstone shapes explanations around experience level and focus while the backend handles input limits, language detection, structured model output, persistence, and sessions.
 
