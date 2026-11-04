@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Omar Hagaley</title>
+  <desc id="desc">A systems map connecting backend, distributed systems, cloud, and applied AI.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0B1020"/>
+      <stop offset="1" stop-color="#111B31"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#FFB454"/>
+      <stop offset="1" stop-color="#66D9EF"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#B9C6E4" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="320" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="22" fill="url(#grid)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M760 78H878L930 130H1090" stroke="#33415F" stroke-width="2"/>
+    <path d="M760 160H850L902 212H1090" stroke="#33415F" stroke-width="2"/>
+    <path d="M760 242H878L930 190H1090" stroke="#33415F" stroke-width="2"/>
+    <path d="M850 160V108M902 212V264M930 130V190" stroke="#33415F" stroke-width="2"/>
+    <path d="M760 160H850L902 212H1090" stroke="url(#signal)" stroke-width="3" stroke-dasharray="3 12"/>
+  </g>
+  <g fill="#0B1020" stroke="#66D9EF" stroke-width="2">
+    <circle cx="760" cy="78" r="7"/>
+    <circle cx="760" cy="160" r="9" filter="url(#glow)"/>
+    <circle cx="760" cy="242" r="7"/>
+    <circle cx="850" cy="108" r="6"/>
+    <circle cx="850" cy="160" r="6"/>
+    <circle cx="902" cy="212" r="7"/>
+    <circle cx="902" cy="264" r="6"/>
+    <circle cx="930" cy="130" r="6"/>
+    <circle cx="930" cy="190" r="6"/>
+    <circle cx="1090" cy="130" r="7"/>
+    <circle cx="1090" cy="212" r="7"/>
+  </g>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8391AD">
+    <text x="738" y="58">input</text>
+    <text x="823" y="90">queue</text>
+    <text x="873" y="249">worker</text>
+    <text x="1039" y="112">output</text>
+  </g>
+  <rect x="70" y="66" width="42" height="6" rx="3" fill="url(#signal)"/>
+  <text x="70" y="138" fill="#F4F7FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="52" font-weight="750" letter-spacing="-.8">Omar Hagaley</text>
+  <text x="72" y="184" fill="#B6C2DB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23">I build software that makes systems easier to see.</text>
+  <text x="72" y="235" fill="#FFB454" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="15" letter-spacing="1.2">BACKEND  /  DISTRIBUTED SYSTEMS  /  CLOUD  /  APPLIED AI</text>
+</svg>
