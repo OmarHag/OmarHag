@@ -12,6 +12,8 @@ I'm a Computer Science & Software Engineering graduate from the University of Wa
 
 ### 01 [Internet X-Ray](https://github.com/OmarHag/internet-x-ray)
 
+`work in progress`
+
 **See what your Mac is actually talking to.** A local-first desktop app that connects network sockets to the processes behind them, then sorts the noise into Internet, LAN, local, and listening traffic.
 
 `Rust` `Tauri` `React` `TypeScript`
@@ -19,6 +21,8 @@ I'm a Computer Science & Software Engineering graduate from the University of Wa
 ---
 
 ### 02 [SuperDrop](https://github.com/OmarHag/SuperDrop)
+
+`work in progress`
 
 **Nearby device discovery without an account or a cloud.** The Rust side advertises and finds computers over mDNS, validates their metadata, and gives the interface a small typed command boundary. File transfer is still the next step.
 
